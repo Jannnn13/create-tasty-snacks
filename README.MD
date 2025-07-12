@@ -2,6 +2,8 @@
 
 **Create: Tasty Snacks** is a Minecraft mod that adds a variety of delicious snacks to the game, designed to work seamlessly with the [Create Mod](https://modrinth.com/mod/create-fabric). This is my first mod, so feedback is highly appreciated!
 
+![Creative Inventory](https://cdn.modrinth.com/data/vxJVLpCJ/images/179b887fc7ebf91ad8aef2070f3b0178bd7630d8.png)
+
 ## Features
 
 - **Sweeter Melon**: A tastier version of the melon that provides more hunger and saturation.
