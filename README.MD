@@ -1,53 +1,60 @@
 # 🍬 Create: Tasty Snacks
 
-**Create: Tasty Snacks** is a fun addon for the Create mod that adds delicious new food items and exciting effects!
+**Create: Tasty Snacks** is a flavorful addon for the Create mod that introduces delicious new food items and exciting effects to spice up your contraptions!
 
-From sweet Lollipops to fluffy Cotton Candy and crunchy Grape Sugar, this mod brings tasty new mechanics and crafting options into your factory setups. All items are designed with compatibility in mind – fully integrating with Create's processing systems.
+From colorful lollipops to a sweeter version of the melon, this mod brings fun snack-themed mechanics into your automated setups. Every item is carefully designed to work smoothly with Create's systems.
+
+> 🧩 **Required dependencies:**
+> - [Create Fabric](https://modrinth.com/mod/create-fabric)
+> - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+> - [Fabric API](https://modrinth.com/mod/fabric-api)
 
 ---
 
 ## 🧁 Features
 
-- 🍭 **Lollipops** – Each flavor gives you a different fun effect!
-- 🍇 **Grape Sugar** – Crunchy and energizing!
-- ☁️ **Cotton Candy** – Sweet clouds of goodness.
-- 🔥 **Heatable Recipes** – Use heating machines from Create to unlock new snack recipes!
-- 🧪 **Balanced Effects** – Fun potion effects that don't break the game.
-- 🏗️ **Create-Compatible Recipes** – Perfect for mechanical automation.
+- 🍭 **Lollipops** – Each flavor grants a unique and fun effect!
+- 🍇 **Grape Sugar** – Crunchy, energizing, and perfect for a quick boost.
+- ☁️ **Cotton Candy** – Fluffy sweetness in your inventory.
+- 🔥 **Heatable Recipes** – Use Create machines to cook up special snacks.
+- 🧪 **Useful Effects** – Tasty items that enhance gameplay.
+- 🏗️ **Fully Automatable** – Designed to integrate seamlessly with Create’s automation.
 
 ---
 
 ## 🔧 Requirements
 
 - **Minecraft** `1.20.1`
-- **Fabric API** `0.91.1+1.20.1`
-- **Create** mod installed
 - **Fabric Loader**
+- **Fabric API**
+- **Create (Fabric version)**
+- **Fabric Language Kotlin**
 
 ---
 
-## 🧠 Idea & Vision
+## 🧠 Concept & Vision
 
-This mod was made to combine the creative potential of the Create mod with a new layer of food fun. Automation + Snacks = 🍬❤️
+This mod aims to blend the engineering creativity of Create with a flavorful twist.  
+Snacks meet steampunk – because why not?
 
-Expect more snacks, machines, and surprise effects in future updates!
+More goodies, effects, and machines are planned for future updates. Stay hungry! 😋
 
 ---
 
 ## 📦 Installation
 
-1. Download the latest release from [Modrinth](https://modrinth.com/mod/create-tasty-snacks).
+1. Download the latest version from [Modrinth](https://modrinth.com/mod/create-tasty-snacks).
 2. Place the `.jar` file into your `mods` folder.
-3. Install **Fabric**, **Fabric API**, and **Create** if you haven't already.
-4. Enjoy some snacks!
+3. Make sure all required dependencies are installed.
+4. Launch the game and enjoy the tasty experience!
 
 ---
 
 ## 💬 Feedback & Contributions
 
-Got an idea for a snack? Found a bug?  
-Open an issue or contribute at: [GitHub Repo](https://github.com/Jannnn13/create-tasty-snacks)
+Have a sweet idea? Found a bug?  
+Submit an issue or contribute on [GitHub](https://github.com/Jannnn13/create-tasty-snacks).
 
 ---
 
-## 🧑‍🍳 Made with ❤️ by Jannik.
+## 👨‍🍳 Made with ❤️ by Jannik
