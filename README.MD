@@ -9,6 +9,8 @@ From colorful lollipops to a sweeter version of the melon, this mod brings fun s
 > - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 > - [Fabric API](https://modrinth.com/mod/fabric-api)
 
+![The Creative menu showing the items from Create: Tasty Snacks](https://cdn.modrinth.com/data/vxJVLpCJ/images/179b887fc7ebf91ad8aef2070f3b0178bd7630d8.png)
+
 ---
 
 ## 🧁 Features
