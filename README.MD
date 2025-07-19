@@ -16,8 +16,6 @@ From colorful lollipops to a sweeter version of the melon, this mod brings fun s
 ## 🧁 Features
 
 - 🍭 **Lollipops** – Each flavor grants a unique and fun effect!
-- 🍇 **Grape Sugar** – Crunchy, energizing, and perfect for a quick boost.
-- ☁️ **Cotton Candy** – Fluffy sweetness in your inventory.
 - 🔥 **Heatable Recipes** – Use Create machines to cook up special snacks.
 - 🧪 **Useful Effects** – Tasty items that enhance gameplay.
 - 🏗️ **Fully Automatable** – Designed to integrate seamlessly with Create’s automation.
