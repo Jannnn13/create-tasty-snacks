@@ -54,7 +54,3 @@ More goodies, effects, and machines are planned for future updates. Stay hungry!
 
 Have a sweet idea? Found a bug?  
 Submit an issue or contribute on [GitHub](https://github.com/Jannnn13/create-tasty-snacks).
-
----
-
-## 👨‍🍳 Made with ❤️ by Jannik
